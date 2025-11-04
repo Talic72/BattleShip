@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class FireState {
+public enum FireState {
+    HIT, MISS, SUNK, WIN
 }
